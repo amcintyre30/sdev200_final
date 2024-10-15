@@ -1,0 +1,27 @@
++----------------------------------+
+| MyFrame()                        |
++----------------------------------+
+| +name : String                   |
+| +incomeSizeInput : String        |
+| +incomeSize : int                |
+| +incomeTotal : double            |
+| +incomeArray[] : double          |
+| +incomeArrayInput : String       | 
+| +incomeArrayConverted : double   |
+| +expenseSizeInput : String       |
+| +expenseSize : int               |
+| +expenseTotal : double           |
+| +expenseArray[] : double         |
+| +expenseArrayInput : String      |
+| +expenseArrayConverted : double  |
+| +budgetInput : String            |
+| +budget : double                 |
+| +spendingSizeInput : String      |
+| +spendingSize : int              |
+| +spendingTotal : double          |
+| +spendingArray[] : double        |
+| +spendingArrayInput : String     |
+| +spendingArrayConverted : double |
++----------------------------------+
+|                                  |
++----------------------------------+
